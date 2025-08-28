@@ -1,1 +1,1 @@
-busybox:latest
+ingress-nginx-controller:v1.7.1
