@@ -1,2 +1,1 @@
-#ingress-nginx-controller:v1.7.1
-kube-webhook-certgen:v20230312
+tomcat:9.0.89-jdk8
