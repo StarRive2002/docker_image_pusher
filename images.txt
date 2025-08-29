@@ -1,1 +1,1 @@
-tomcat:9.0.89-jdk8
+nginx:1.24.0
